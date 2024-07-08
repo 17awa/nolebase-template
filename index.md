@@ -6,7 +6,7 @@ title: MinecraftBug
 titleTemplate: 收录MinecraftBug
 
 hero:
-  name: g~Nj$3J2^
+  name: MinecraftBug
   text: MinecraftBug
   tagline: 收录MinecraftBug
   image:
