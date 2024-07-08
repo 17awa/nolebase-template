@@ -10,7 +10,7 @@ hero:
   text: MinecraftBug
   tagline: 收录MinecraftBug
   image:
-    src: /logo.svg
+    src: /logo.png
     alt: Vitest
   actions:
     - theme: brand
